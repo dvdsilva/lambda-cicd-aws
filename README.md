@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AWS Lambda CI/CD Pipeline
 
 This project demonstrates a complete CI/CD pipeline for AWS Lambda functions using AWS CodeBuild and CodeDeploy. The pipeline automatically builds, packages, and deploys Lambda functions with version management and alias updates.
@@ -274,3 +275,6 @@ Create multiple deployment groups for different environments (dev, staging, prod
 3. Make your changes
 4. Test the pipeline
 5. Submit a pull request
+=======
+# lambda-cicd-aws
+>>>>>>> eb2c4b9644827c1b8cbe7f212ce83d42c037e066
